@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm Michal Němec, and you'll learn a bit about my work in this file.
 
 
-
 ## 🏎️ Try out
 
 Two projects I've worked on are available to you (a Mac user) via Homebrew.
@@ -18,10 +17,48 @@ The best utility to make some space. Built with Rust and a few colleagues from m
 
 ### 🌌 SpaceAlias
 
-Never forget which macOS space are you on by making aliases for your spaces in the menu bar!
+Never forget which macOS space you are on by making aliases for your spaces in the menu bar!
 
 - [Project's repo](https://gitlab.com/BajaCali/spacealias)
-- Installation and usasge in the repo ☝️.
+- Installation and usage in the repo ☝️.
+
+
+## 📱 iOS Showcase
+
+While professional projects have been my primary focus, I am eager to share one small personal project with you. 
+
+### MoneyWellSpend
+
+Organize your money across accounts and assign them a purpose.
+
+- [Project's repo](https://gitlab.com/apodidae/money-well-spend)
+
+
+## 🛠️ iOS Developed tools
+
+I am also passionate about the process of crafting apps. Therefore, I forked and contributed to several projects regarding the process.
+
+
+### 💉 Dependency Injection
+
+Container Dependency Injection framework was originally from [STRV](https://github.com/strvcom/ios-dependency-injection).
+
+- [My fork's repo](https://gitlab.com/apodidae/ios-dependency-injection)
+- Created [Swift property wrapper](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Property-Wrappers) to integrate nicely with SwiftUI.
+
+### 📒 FTLogKit
+
+I've created a logging framework with the ambition to unify logging across projects at a company I worked for.
+
+- [Project's repo](https://github.com/BajaCali/FTLogKit)
+- Several customizations
+- Synchronization with [Swift Actor](https://developer.apple.com/documentation/swift/actor)
+
+### 🏄 License2Chill
+
+Framework for testing in the philosophy of Behaviour-driven Development.
+
+- [Project's repo](https://gitlab.com/apodidae/license2chill)
 
 <!--
 **BajaCali/BajaCali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
