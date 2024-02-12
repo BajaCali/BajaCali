@@ -37,24 +37,21 @@ I am also passionate about the process of crafting apps. Therefore, I forked and
 
 ### 💉 Dependency Injection
 
-Container Dependency Injection framework was originally from [STRV](https://github.com/strvcom/ios-dependency-injection).
+[My fork's repo](https://gitlab.com/apodidae/ios-dependency-injection). Container Dependency Injection framework was originally from [STRV](https://github.com/strvcom/ios-dependency-injection).
 
-- [My fork's repo](https://gitlab.com/apodidae/ios-dependency-injection)
 - Created [Swift property wrapper](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Property-Wrappers) to integrate nicely with SwiftUI.
 
 ### 📒 FTLogKit
 
-I've created a logging framework with the ambition to unify logging across projects at a company I worked for.
+[Project's repo](https://github.com/BajaCali/FTLogKit). I've created a logging framework with the ambition to unify logging across projects at a company I worked for.
 
-- [Project's repo](https://github.com/BajaCali/FTLogKit)
 - Several customizations
 - Synchronization with [Swift Actor](https://developer.apple.com/documentation/swift/actor)
 
 ### 🏄 License2Chill
 
-Framework for testing in the philosophy of Behaviour-driven Development.
+[Project's repo](https://gitlab.com/apodidae/license2chill). Framework for testing in the philosophy of Behaviour-driven Development.
 
-- [Project's repo](https://gitlab.com/apodidae/license2chill)
 
 <!--
 **BajaCali/BajaCali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
