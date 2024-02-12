@@ -5,7 +5,8 @@ Welcome to my GitHub profile! I'm Michal Němec, and you'll learn a bit about my
 Contents:
 - [🏎️ Try out](https://github.com/BajaCali#%EF%B8%8F-try-out)
 - [📱 iOS Showcase](https://github.com/BajaCali#-ios-showcase)
-- [🛠️ iOS Developed tools](https://github.com/BajaCali#%EF%B8%8F-ios-developed-tools)
+- [🛠️ iOS Development tools](https://github.com/BajaCali#%EF%B8%8F-ios-developed-tools)
+- [More about me]()
 
 ## 🏎️ Try out
 
@@ -34,7 +35,7 @@ While professional projects have been my primary focus, I am eager to share one 
 [Project's repo](https://gitlab.com/apodidae/money-well-spend). Organize your money across accounts and assign them a purpose.
 
 
-## 🛠️ iOS Developed tools
+## 🛠️ iOS Development tools
 
 I am also passionate about the process of crafting apps. Therefore, I forked and contributed to several projects regarding the process.
 
@@ -55,6 +56,12 @@ I am also passionate about the process of crafting apps. Therefore, I forked and
 ### 🏄 License2Chill
 
 [Project's repo](https://gitlab.com/apodidae/license2chill). Framework for testing in the philosophy of Behaviour-driven Development.
+
+## More about me
+
+- 🌱 I’m currently learning Emacs, and I hope I will never be done.
+- 👯 I’m looking to collaborate on an iOS Project.
+- 📫 Please [drop a message on LinkedIn](https://www.linkedin.com/in/michal-nemec-b6b800122/) if you're interested in working with me.
 
 
 <!--
