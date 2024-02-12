@@ -9,17 +9,15 @@ Two projects I've worked on are available to you (a Mac user) via Homebrew.
 
 ### 🪩 Diskostat
 
-The best utility to make some space. Built with Rust and a few colleagues from my university. I've created the backbone of this project: the data structure and algorithm to compute the folder sizes. The computation is done in parallel with proper synchronization and memory handling.
+[Project's repo](https://github.com/Diskostat/diskostat/tree/feature/update-readme). The best utility to make some space. Built with Rust and a few colleagues from my university. I've created the backbone of this project: the data structure and algorithm to compute the folder sizes. The computation is done in parallel with proper synchronization and memory handling.
 
-- [Project's repo](https://github.com/Diskostat/diskostat/tree/feature/update-readme).
 - Install: `brew tap Diskostat/homebrew-diskostat && brew install diskostat`.
 - Use: `disko` and `disko --help` for cli settings.
 
 ### 🌌 SpaceAlias
 
-Never forget which macOS space you are on by making aliases for your spaces in the menu bar!
+[Project's repo](https://gitlab.com/BajaCali/spacealias). Never forget which macOS space you are on by making aliases for your spaces in the menu bar!
 
-- [Project's repo](https://gitlab.com/BajaCali/spacealias)
 - Installation and usage in the repo ☝️.
 
 
@@ -29,9 +27,7 @@ While professional projects have been my primary focus, I am eager to share one 
 
 ### MoneyWellSpend
 
-Organize your money across accounts and assign them a purpose.
-
-- [Project's repo](https://gitlab.com/apodidae/money-well-spend)
+[Project's repo](https://gitlab.com/apodidae/money-well-spend). Organize your money across accounts and assign them a purpose.
 
 
 ## 🛠️ iOS Developed tools
