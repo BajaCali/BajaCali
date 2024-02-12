@@ -6,7 +6,7 @@ Contents:
 - [🏎️ Try out](https://github.com/BajaCali#%EF%B8%8F-try-out)
 - [📱 iOS Showcase](https://github.com/BajaCali#-ios-showcase)
 - [🛠️ iOS Development tools](https://github.com/BajaCali#%EF%B8%8F-ios-developed-tools)
-- [More about me]()
+- [More about me](https://github.com/BajaCali#more-about-me)
 
 ## 🏎️ Try out
 
