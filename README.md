@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I'm Michal Němec, and you'll learn a bit about my work in this file.
 
+Contents:
+- [🏎️ Try out](https://github.com/BajaCali#%EF%B8%8F-try-out)
+- [📱 iOS Showcase](https://github.com/BajaCali#-ios-showcase)
+- [🛠️ iOS Developed tools](https://github.com/BajaCali#%EF%B8%8F-ios-developed-tools)
 
 ## 🏎️ Try out
 
